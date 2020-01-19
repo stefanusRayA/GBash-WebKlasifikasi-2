@@ -8,7 +8,6 @@
   <meta name="author" content="">
 
   <title>SIDIKLILA | Sistem Prediksi Lirik Lagu</title>
-    <img title="Title Tag Goes Here" src="/ML/img/stefanus.jpg" alt="Your Alt Tag is Here" />
 
   <!-- Bootstrap Core CSS -->
   <link href="/ML/css/bootstrap.min.css" rel="stylesheet" type="text/css">
