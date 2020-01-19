@@ -8,7 +8,7 @@
   <meta name="author" content="">
 
   <title>SIDIKLILA | Sistem Prediksi Lirik Lagu</title>
-    <link rel = "icon" href ="/ML/img/saya.png" type = "image/x-icon">
+    <link rel = "icon" href ="/ML/img/sms2oke.jpg" type = "image/x-icon">
 
   <!-- Bootstrap Core CSS -->
   <link href="/ML/css/bootstrap.min.css" rel="stylesheet" type="text/css">
