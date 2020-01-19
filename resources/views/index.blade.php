@@ -37,6 +37,34 @@
             </div>
           </div>
         </div>
+	
+	<div class="row text-center">
+        <div class="col-md-3">
+          <div class="wow bounceInUp" data-wow-delay="0.5s">
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Stefanus Ray Ameniawan Invas Febrikagraha</h5>
+                <p class="subtitle">150708605</p>
+                <div class="avatar"><img src="/ML/img/stefanus.jpg" alt="" class="img-responsive img-square" /></div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+	
+	<div class="row text-center">
+        <div class="col-md-3">
+          <div class="wow bounceInUp" data-wow-delay="0.5s">
+            <div class="team boxed-grey">
+              <div class="inner">
+                <h5>Stefanus Ray Ameniawan Invas Febrikagraha</h5>
+                <p class="subtitle">150708605</p>
+                <div class="avatar"><img src="/ML/img/stefanus.jpg" alt="" class="img-responsive img-square" /></div>
+
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div>
     </div>
