@@ -7,7 +7,8 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>CLIGE | Classification Lyrics Genre Emotion Prediction</title>
+  <title>SIDIKLILA | Sistem Prediksi Lirik Lagu</title>
+    <link rel="icon" img src="/ML/img/stefanus.jpg" type="image/png">
 
   <!-- Bootstrap Core CSS -->
   <link href="/ML/css/bootstrap.min.css" rel="stylesheet" type="text/css">
