@@ -38,7 +38,7 @@
 
                 <div class="col-md-9">
                   <div class="form-group">
-                    <label align="center" for="exampleSpam">
+                    <label for="exampleSpam pull-center">
                                 Masukan</label>
                     <textarea align="center" type="text" class="form-control" name="text_spam" id="Text_spam" placeholder="Lirik lagu" data-rule="minlen:10" data-msg="Please enter at least 8 chars of Text" /></textarea>
                     <div class="validation"></div>
