@@ -38,9 +38,9 @@
 
                 <div class="col-md-9">
                   <div class="form-group">
-                    <label for="exampleSpam pull-center" style="margin-left: 470px;">
+                    <label for="exampleSpam pull-center">
                                 Masukan</label>
-                    <textarea align="center" type="text" class="form-control" name="text_spam" id="Text_spam" placeholder="Lirik lagu" data-rule="minlen:10" data-msg="Please enter at least 8 chars of Text" style="border-left-width: 1px; margin-left: 250px;"></textarea>
+                    <textarea align="center" type="text" class="form-control" name="text_spam" id="Text_spam" placeholder="Lirik lagu" data-rule="minlen:10" data-msg="Please enter at least 8 chars of Text"></textarea>
                     <div class="validation"></div>
                   </div>
                 </div>
@@ -48,15 +48,15 @@
                 <br>
                 <br>
                 <div class="col-md-6" align="center">
-                  <label align="center" for="examplePredict" name="result" style="margin-left: 540px;">Hasil</label>
+                  <label align="center" for="examplePredict" name="result">Hasil</label>
                   <br>
-                  <label align="center" for="examplePredict" name="result" style="margin-left: 538px;>Emosi</label>
-                  <label for="examplePredict" id="predictEmosi" class="form-control" style="margin-left: 290px;>
+                  <label align="center" for="examplePredict" name="result">Emosi</label>
+                  <label for="examplePredict" id="predictEmosi" class="form-control">
                     <input class="form-group" type="hidden" name="predictDataTemp" id="predictEmosiRes"/>
                   </label>
 
-                  <label align="center" for="examplePredict" name="result" style="margin-left: 538px;>Genre</label>
-                  <label align="center"for="examplePredict" id="predictGenre" class="form-control" style="margin-left: 290px;>
+                  <label align="center" for="examplePredict" name="result">Genre</label>
+                  <label align="center"for="examplePredict" id="predictGenre" class="form-control">
                     <input class="form-group" type="hidden" name="predictDataTemp" id="predictGenreRes"/>
                   </label>
                 </div>
