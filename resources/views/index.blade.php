@@ -31,7 +31,7 @@
               <div class="inner">
                 <h5>Stefanus Ray Ameniawan Invas Febrikagraha</h5>
                 <p class="subtitle">150708605</p>
-                <div class="avatar"><img src="/ML/img/stefanus.jpg" alt="" class="img-responsive img-square" /></div>
+                
 
               </div>
             </div>
@@ -59,7 +59,7 @@
               <div class="inner">
                 <h5>Stefanus Ray Ameniawan Invas Febrikagraha</h5>
                 <p class="subtitle">150708605</p>
-                <div class="avatar"><img src="/ML/img/stefanus.jpg" alt="" class="img-responsive img-square" /></div>
+                
 
               </div>
             </div>
