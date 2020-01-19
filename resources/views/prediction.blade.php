@@ -47,7 +47,7 @@
                 <br>
                 <br>
                 <br>
-                <div class="col-md-6">
+                <div class="col-md-6" align="center">
                   <label align="center" for="examplePredict" name="result">Hasil</label>
                   <br>
                   <label align="center" for="examplePredict" name="result">Emosi</label>
