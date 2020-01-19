@@ -36,7 +36,7 @@
               <input type="hidden" name="_token" value="{{ csrf_token() }}">
               <div class="row">
 
-                <div class="col-md-9">
+                <div class="col-md-9" style="margin-left: 140px;">
                   <div class="form-group">
                     <label for="exampleSpam pull-center">
                                 Masukan</label>
@@ -47,7 +47,7 @@
                 <br>
                 <br>
                 <br>
-                <div class="col-md-6" align="center">
+                <div class="col-md-6" align="center" style="margin-left: 285px;">
                   <label align="center" for="examplePredict" name="result">Hasil</label>
                   <br>
                   <label align="center" for="examplePredict" name="result">Emosi</label>
